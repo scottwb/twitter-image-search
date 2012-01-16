@@ -17,9 +17,9 @@ $ ./twitter-image-search.rb "#snowpocalypse2012 -seattle"
 
 ## Terms of Use
 
-Use at your own risk. Be aware that (Twitter's API Terms of Service)[https://dev.twitter.com/terms/api-terms] prevent many things such as:
+Use at your own risk. Be aware that [Twitter's API Terms of Service](https://dev.twitter.com/terms/api-terms) prevent many things such as:
 
-Exporting Twitter Content to a datastore as a service or other cloud based service, however, is not permitted.
+> Exporting Twitter Content to a datastore as a service or other cloud based service, however, is not permitted.
 
 I absolve myself from all responsibility for how you choose to use this tool.
 
